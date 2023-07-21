@@ -1,0 +1,109 @@
+Sample,Grouping,Bacteria,Yeast,Preservatives,CFU_fly
+Ax 1,Ax YC,Ax,Yeast C,N,0
+Ax 2,Ax YC,Ax,Yeast C,N,0
+Ax 3,Ax YC,Ax,Yeast C,N,0
+Ax 4,Ax YC,Ax,Yeast C,N,0
+Ax 5,Ax YC,Ax,Yeast C,N,0
+Ax 6,Ax YC,Ax,Yeast C,N,0
+Lb 1,Lb YC,Lb,Yeast C,N,3.16879202
+Lb 2,Lb YC,Lb,Yeast C,N,2.889301703
+Lb 3,Lb YC,Lb,Yeast C,N,2.954242509
+Lb 4,Lb YC,Lb,Yeast C,N,3.249198357
+Lb 5,Lb YC,Lb,Yeast C,N,3.431363764
+Lb 6,Lb YC,Lb,Yeast C,N,3.301029996
+Ap 1,Ap YC,Ap,Yeast C,N,4.397940009
+Ap 2,Ap YC,Ap,Yeast C,N,4.916453949
+Ap 3,Ap YC,Ap,Yeast C,N,4.096910013
+Ap 4,Ap YC,Ap,Yeast C,N,4.397940009
+Ap 5,Ap YC,Ap,Yeast C,N,5.06069784
+Ap 6,Ap YC,Ap,Yeast C,N,4
+Ax 1,Ax YD,Ax,Yeast D,N,0
+Ax 2,Ax YD,Ax,Yeast D,N,0
+Ax 3,Ax YD,Ax,Yeast D,N,0
+Ax 4,Ax YD,Ax,Yeast D,N,0
+Ax 5,Ax YD,Ax,Yeast D,N,0
+Ax 6,Ax YD,Ax,Yeast D,N,0
+Lb 1,Lb YD,Lb,Yeast D,N,3.397940009
+Lb 2,Lb YD,Lb,Yeast D,N,3.602059991
+Lb 3,Lb YD,Lb,Yeast D,N,3.243038049
+Lb 4,Lb YD,Lb,Yeast D,N,3
+Lb 5,Lb YD,Lb,Yeast D,N,2.875061263
+Lb 6,Lb YD,Lb,Yeast D,N,2.875061263
+Ap 1,Ap YD,Ap,Yeast D,N,5.767155866
+Ap 2,Ap YD,Ap,Yeast D,N,5.51851394
+Ap 3,Ap YD,Ap,Yeast D,N,5.860338007
+Ap 4,Ap YD,Ap,Yeast D,N,5.748188027
+Ap 5,Ap YD,Ap,Yeast D,N,5.763427994
+Ap 6,Ap YD,Ap,Yeast D,N,5.748188027
+Ax 1,Ax YC G,Ax,Yeast C,2,0
+Ax 2,Ax YC G,Ax,Yeast C,2,0
+Ax 3,Ax YC G,Ax,Yeast C,2,0
+Ax 4,Ax YC G,Ax,Yeast C,2,0
+Ax 5,Ax YC G,Ax,Yeast C,2,0
+Ax 6,Ax YC G,Ax,Yeast C,2,0
+Lb 1,Lb YC G,Lb,Yeast C,2,1.62838893
+Lb 2,Lb YC G,Lb,Yeast C,2,1.916453949
+Lb 3,Lb YC G,Lb,Yeast C,2,2.088136089
+Lb 4,Lb YC G,Lb,Yeast C,2,1.602059991
+Lb 5,Lb YC G,Lb,Yeast C,2,1.574031268
+Lb 6,Lb YC G,Lb,Yeast C,2,1.929418926
+Ap 1,Ap YC G,Ap,Yeast C,2,2.62838893
+Ap 2,Ap YC G,Ap,Yeast C,2,2.759667845
+Ap 3,Ap YC G,Ap,Yeast C,2,2.511883361
+Ap 4,Ap YC G,Ap,Yeast C,2,3.161368002
+Ap 5,Ap YC G,Ap,Yeast C,2,2.67669361
+Ap 6,Ap YC G,Ap,Yeast C,2,3.210853365
+Ax 1,Ax YD G,Ax,Yeast D,2,0
+Ax 2,Ax YD G,Ax,Yeast D,2,0
+Ax 3,Ax YD G,Ax,Yeast D,2,0
+Ax 4,Ax YD G,Ax,Yeast D,2,0
+Ax 5,Ax YD G,Ax,Yeast D,2,0
+Ax 6,Ax YD G,Ax,Yeast D,2,0
+Lb 1,Lb YD G,Lb,Yeast D,2,1.574031268
+Lb 2,Lb YD G,Lb,Yeast D,2,1.511883361
+Lb 3,Lb YD G,Lb,Yeast D,2,1.439332694
+Lb 4,Lb YD G,Lb,Yeast D,2,1.720159303
+Lb 5,Lb YD G,Lb,Yeast D,2,1.243038049
+Lb 6,Lb YD G,Lb,Yeast D,2,1.397940009
+Ap 1,Ap YD G,Ap,Yeast D,2,3.176091259
+Ap 2,Ap YD G,Ap,Yeast D,2,3.301029996
+Ap 3,Ap YD G,Ap,Yeast D,2,3.352182518
+Ap 4,Ap YD G,Ap,Yeast D,2,3.243038049
+Ap 5,Ap YD G,Ap,Yeast D,2,3.829303773
+Ap 6,Ap YD G,Ap,Yeast D,2,3.301029996
+Ax 1,Ax YC D,Ax,Yeast C,1,0
+Ax 2,Ax YC D,Ax,Yeast C,1,0
+Ax 3,Ax YC D,Ax,Yeast C,1,0
+Ax 4,Ax YC D,Ax,Yeast C,1,0
+Ax 5,Ax YC D,Ax,Yeast C,1,0
+Ax 6,Ax YC D,Ax,Yeast C,1,0
+Lb 1,Lb YC D,Lb,Yeast C,1,2.77815125
+Lb 2,Lb YC D,Lb,Yeast C,1,2.352182518
+Lb 3,Lb YC D,Lb,Yeast C,1,1.698970004
+Lb 4,Lb YC D,Lb,Yeast C,1,1.875061263
+Lb 5,Lb YC D,Lb,Yeast C,1,3.86923172
+Lb 6,Lb YC D,Lb,Yeast C,1,4.021189299
+Ap 1,Ap YC D,Ap,Yeast C,1,4.176091259
+Ap 2,Ap YC D,Ap,Yeast C,1,3.698970004
+Ap 3,Ap YC D,Ap,Yeast C,1,4.84509804
+Ap 4,Ap YC D,Ap,Yeast C,1,4.698970004
+Ap 5,Ap YC D,Ap,Yeast C,1,5.217483944
+Ap 6,Ap YC D,Ap,Yeast C,1,5.096910013
+Ax 1,Ax YD D,Ax,Yeast D,1,0
+Ax 2,Ax YD D,Ax,Yeast D,1,0
+Ax 3,Ax YD D,Ax,Yeast D,1,0
+Ax 4,Ax YD D,Ax,Yeast D,1,0
+Ax 5,Ax YD D,Ax,Yeast D,1,0
+Ax 6,Ax YD D,Ax,Yeast D,1,0
+Lb 1,Lb YD D,Lb,Yeast D,1,2.176091259
+Lb 2,Lb YD D,Lb,Yeast D,1,1.875061263
+Lb 3,Lb YD D,Lb,Yeast D,1,2.860338007
+Lb 4,Lb YD D,Lb,Yeast D,1,3.443262987
+Lb 5,Lb YD D,Lb,Yeast D,1,1.84509804
+Lb 6,Lb YD D,Lb,Yeast D,1,3.889301703
+Ap 1,Ap YD D,Ap,Yeast D,1,4.942008053
+Ap 2,Ap YD D,Ap,Yeast D,1,4.67669361
+Ap 3,Ap YD D,Ap,Yeast D,1,4.812913357
+Ap 4,Ap YD D,Ap,Yeast D,1,4.812913357
+Ap 5,Ap YD D,Ap,Yeast D,1,4.740362689
+Ap 6,Ap YD D,Ap,Yeast D,1,4.62838893
